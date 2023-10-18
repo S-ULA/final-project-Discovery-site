@@ -1,0 +1,38 @@
+:root {
+
+    --font-size14: 0.875rem;
+    --font-size12: 0.75rem;
+    --font-size16: 1rem;
+    --font-size18: 1.125rem;
+    --font-size20: 1.25rem;
+    --font-size24: 1.5em;
+    --font-size25: 1.563rem;
+    --font-size28: 1.75rem;
+    --font-size32: 2rem;
+    --font-size40: 2.5rem;
+    --font-size48: 3rem;
+
+
+    --background-col: #7B61FF;
+    --background-color-white: #ffffff;
+
+    --color-white: #fff;
+    --color-text: #161414;
+    --color-search-h: #979797;
+    --color-yellow: #FFA800;
+    --color-blue: #7B61FF;
+    --color-brown: #5B5B5B;
+    --color-blue2: #5243C2;
+
+
+
+
+
+    --font_fam: 'PT Serif';
+
+
+
+
+
+
+}
